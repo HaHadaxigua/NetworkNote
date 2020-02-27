@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0cbfc46-cd3c-4a4b-a83f-fc62cbcbb4d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YN6uJoBhiirDbeTmy2aOLzROMb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\pycharmProject\web\udp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.PorxyServer">
+    <configuration name="PorxyServer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proxyServer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proxyServer/PorxyServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webServer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webServer/Server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TCPClient" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tcp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tcp/TCPClient.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UDP_heatbeat_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/udpPing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/udpPing/UDP_heatbeat_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UDP_heatbeat_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/udpPing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/udpPing/UDP_heatbeat_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PorxyServer" />
+        <item itemvalue="Python.UDP_heatbeat_client" />
+        <item itemvalue="Python.UDP_heatbeat_server" />
+        <item itemvalue="Python.Server" />
+        <item itemvalue="Python.TCPClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0cbfc46-cd3c-4a4b-a83f-fc62cbcbb4d5" name="Default Changelist" comment="" />
+      <created>1582770925979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582770925979</updated>
+      <workItem from="1582770928041" duration="2357000" />
+      <workItem from="1582773295642" duration="179000" />
+      <workItem from="1582773513289" duration="57000" />
+      <workItem from="1582773605401" duration="235000" />
+      <workItem from="1582773865599" duration="9203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="827" y="415" key="#Notifications" timestamp="1582773553729">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state x="827" y="415" key="#Notifications/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582773553729" />
+    <state x="382" y="539" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582784094418">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state x="382" y="539" key="#com.intellij.fileTypes.FileTypeChooser/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582784094418" />
+    <state x="998" y="471" key="FileChooserDialogImpl" timestamp="1582774052516">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state x="998" y="471" key="FileChooserDialogImpl/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582774052516" />
+    <state width="1235" height="404" key="GridCell.Tab.0.bottom" timestamp="1582784408293">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state width="1235" height="404" key="GridCell.Tab.0.bottom/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582784408293" />
+    <state width="1235" height="404" key="GridCell.Tab.0.center" timestamp="1582784408292">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state width="1235" height="404" key="GridCell.Tab.0.center/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582784408292" />
+    <state width="1235" height="404" key="GridCell.Tab.0.left" timestamp="1582784408292">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state width="1235" height="404" key="GridCell.Tab.0.left/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582784408292" />
+    <state width="1235" height="404" key="GridCell.Tab.0.right" timestamp="1582784408292">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state width="1235" height="404" key="GridCell.Tab.0.right/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582784408292" />
+    <state x="679" y="357" key="SettingsEditor" timestamp="1582774069762">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state x="679" y="357" key="SettingsEditor/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582774069762" />
+    <state x="976" y="558" key="com.intellij.ide.util.TipDialog" timestamp="1582773866610">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state x="976" y="558" key="com.intellij.ide.util.TipDialog/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582773866610" />
+    <state x="865" y="560" width="707" height="312" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1582774068130">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state x="865" y="560" width="707" height="312" key="org.intellij.images.editor.actions.BackgroundImageDialog/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582774068130" />
+    <state x="303" y="353" width="672" height="678" key="search.everywhere.popup" timestamp="1582780681323">
+      <screen x="0" y="31" width="2560" height="1409" />
+    </state>
+    <state x="303" y="353" width="672" height="678" key="search.everywhere.popup/3840.757.1536.827/0.31.2560.1409@0.31.2560.1409" timestamp="1582780681323" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/web$UDP_heatbeat_client.coverage" NAME="UDP_heatbeat_client Coverage Results" MODIFIED="1582781678674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/udpPing" />
+    <SUITE FILE_PATH="coverage/web$TCPClient.coverage" NAME="TCPClient Coverage Results" MODIFIED="1582775015996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tcp" />
+    <SUITE FILE_PATH="coverage/web$UDPClient.coverage" NAME="UDPClient Coverage Results" MODIFIED="1582772918122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web$PorxyServer.coverage" NAME="PorxyServer Coverage Results" MODIFIED="1582784309739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxyServer" />
+    <SUITE FILE_PATH="coverage/web$UDP_heatbeat_server.coverage" NAME="UDP_heatbeat_server Coverage Results" MODIFIED="1582781676328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/udpPing" />
+    <SUITE FILE_PATH="coverage/web$TCPServer.coverage" NAME="TCPServer Coverage Results" MODIFIED="1582774926496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tcp" />
+    <SUITE FILE_PATH="coverage/web$Server.coverage" NAME="Server Coverage Results" MODIFIED="1582779699702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webServer" />
+    <SUITE FILE_PATH="coverage/web$UDPServer.coverage" NAME="UDPServer Coverage Results" MODIFIED="1582772740983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
